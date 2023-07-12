@@ -1,2 +1,1 @@
-# AOV
-short term instruction
+# Simple python games
